@@ -1,0 +1,6 @@
+Flask
+sympy
+gunicorn
+git init
+git add ia_tsundere.py requirements.txt
+git commit -m "Primeira versão da IA Matemática Tsundere"
