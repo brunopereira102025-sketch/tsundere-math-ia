@@ -116,5 +116,3 @@ def limpar():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
-git init
-git add ia_tsundere.py requirements.txtgit commit -m "Primeira versão da IA Matemática Tsundere"
